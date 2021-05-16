@@ -15,6 +15,7 @@
         * [1734.解码异或后排列](Difficulty/Medium/解码异或后的排列.md)
         * [1310.子数组异或查询](Difficulty/Medium/子数组异或查询.md)
         * [12. 整数转罗马数字](Difficulty/Medium/整数转罗马数字.md)
+        * [421.数组中两个数的最大异或值](Difficulty/Medium/数组中两个数的最大异或值.md)
     * Hard
         * [1473. 粉刷房子 III](Difficulty/Hard/粉刷房子 III.md)
         * [1723.完成所有工作的最短时间](Difficulty/Hard/完成所有工作的最短时间.md)
