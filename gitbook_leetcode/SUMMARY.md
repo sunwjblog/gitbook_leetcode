@@ -18,7 +18,12 @@
         * [12. 整数转罗马数字](Difficulty/Medium/整数转罗马数字.md)
         * [421.数组中两个数的最大异或值](Difficulty/Medium/数组中两个数的最大异或值.md)
         * [1035. 不相交的线](Difficulty/Medium/不相交的线.md)
+        * [477.汉明距离总和](Difficulty/Medium/汉明距离总和.md)
+        * [523.连续的子数组和](Difficulty/Medium/连续的子数组和.md)
     * Hard
         * [1473. 粉刷房子 III](Difficulty/Hard/粉刷房子 III.md)
         * [1723.完成所有工作的最短时间](Difficulty/Hard/完成所有工作的最短时间.md)
+* Algorithmic
+    * [动态规划算法](algorithmic/动态规划算法.md)
+* DataStructure
 
